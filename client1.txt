@@ -1,1 +1,1 @@
-Changing the content of the file
+Changing a part of the file
