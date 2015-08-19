@@ -1,2 +1,2 @@
-Test file in test1
- creating conflict
+Test file in test1 creating conflict and resolving it.
+
