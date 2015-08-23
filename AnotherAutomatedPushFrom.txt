@@ -1,1 +1,3 @@
-Addint text to the file
+Adding text to the file
+
+Adding another text line to commit check.!
