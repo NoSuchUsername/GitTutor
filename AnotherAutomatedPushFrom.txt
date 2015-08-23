@@ -1,6 +1,1 @@
-Adding text to the file
-
-Adding another text line to commit check.!
-
-
-And yet another check line!!!
+Deleted all to avoid ahad thing
